@@ -196,7 +196,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Weather
-        content: Multiplatform mobile app (using Xamarin and .NETCore) to check the weather around the world. 
+        content: Multiplatform mobile app to check the weather around the world. 
         image: /images/weather.png
           #featured:
           #  name: Demo
