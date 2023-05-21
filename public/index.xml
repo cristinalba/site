@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristina Profile Page</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>https://cristinalba.github.io/site/</link>
     <description>Recent content on Cristina Profile Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cristinalba.github.io/site/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
